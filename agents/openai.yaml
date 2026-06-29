@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hotel Vlog Maker"
+  short_description: "Create short social hotel vlog edits"
+  default_prompt: "Use $hotel-vlog-maker to turn this hotel media folder into a vertical social vlog under 60 seconds."
